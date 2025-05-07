@@ -1,3 +1,1 @@
-# BDD 
-
-
+# BDD [![Build status](https://ci.appveyor.com/api/projects/status/a0hfew2fbfb63wwv?svg=true)](https://ci.appveyor.com/project/artem-ar888/aqa-bdd)
