@@ -1,4 +1,4 @@
-# BDD [![Build status](https://ci.appveyor.com/api/projects/status/a0hfew2fbfb63wwv?svg=true)](https://ci.appveyor.com/project/artem-ar888/aqa-bdd)
+[![Java CI with Gradle](https://github.com/artem-ar888/aqa-bdd/actions/workflows/gradle.yml/badge.svg)](https://github.com/artem-ar888/aqa-bdd/actions/workflows/gradle.yml)
 
 # Домашнее задание к занятию «2.4. BDD»
 
